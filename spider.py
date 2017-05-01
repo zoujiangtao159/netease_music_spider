@@ -141,8 +141,8 @@ class NetEaseMusicSpider(object):
         nonce = '0CoJUm6Qyw8W8jud'
         pubKey = '010001'
         text = {
-            'username': 'whqbit@163.com',
-            'password': '5469079haoer',
+            'username': '',
+            'password': '',
             'rememberLogin': 'true'
         }
         text = json.dumps(text)
